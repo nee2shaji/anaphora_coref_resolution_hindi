@@ -1,4 +1,4 @@
-# Anaphora Coref Resolution (Hindi)
+# Anaphora Coreference Resolution (Hindi)
 
 ## Dataset
 
