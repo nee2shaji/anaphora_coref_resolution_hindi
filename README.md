@@ -3,8 +3,11 @@
 ## Dataset
 
 Built a small dataset marking the clusters of anaphoras and co references. For example,
+
 X → श्याम खुद कमरा साफ़ करता है
+
 Y → 1    1  0     0   0    0
+
 Each cluster of noun and pronoun are marked with integers other than 1 and all others are marked as 0. We made a small dataset with about 20 sentences.
  
 
